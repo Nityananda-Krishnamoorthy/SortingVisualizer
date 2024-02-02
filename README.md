@@ -31,6 +31,6 @@ The sorting visualizer is a web-based tool that allows users to visualize differ
   2) Data size ()
   3) Generation of new data (Randomly generate new data).
 
-**Live Version of the Sorting Visualizer link:**
+**Live Version of the Sorting Visualizer link:** https://nityananda-krishnamoorthy.github.io/SortingVisualizer/
 
     
