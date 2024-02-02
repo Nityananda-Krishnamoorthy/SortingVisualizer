@@ -7,7 +7,7 @@
   margin: 0px;
   padding: 0px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: large;
+  font-size: medium;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -85,7 +85,7 @@ nav .header_right .algos button {
   color: ghostwhite;
   outline: 5px;
   padding: 10% 0%;
-  font-size: x-large;
+  font-size: medium;
 }
 
 nav .header_right .algos button:hover {
